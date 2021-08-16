@@ -4,8 +4,6 @@
 (currently) **Studying** about _NAS(Network Architecture Search)_ and _Optimization_  
 **Worked** in CVMIPLab for developing _AI Engine Web Frontend/Backend (Vue.js, Spring MVC)_
 
-![LimeOrangePie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungin500&show_icons=true&theme=dracula)
-
 - 📧 I'm reachable with: ji5489 at gmail.
 - 🚀 I have a blog on: [라임오렌지파이와 일상](https://dailylime.kr/)
 - 💼 I'm working on: [CVMIPLab, KNU](https://visual.kangwon.ac.kr)
