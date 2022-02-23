@@ -1,12 +1,11 @@
 ## Deep Learning & Network/System Architecture Researcher
 
-**Graduate Student** who wants to be a _Deep Neural Network Architect_  
-(currently) **Studying** about _NAS(Network Architecture Search)_ and _Optimization_  
-**Worked** in CVMIPLab for developing _AI Engine Web Frontend/Backend (Vue.js, Spring MVC)_
+Graduate Student, CNN Network Architect  
+Currently studying on _NAS(Network Architecture Search)_ and _Model Optimization_ in CVMIPLab., KNU.
 
-- 📧 I'm reachable with: ji5489 at gmail.
-- 🚀 I have a blog on: [라임오렌지파이와 일상](https://dailylime.kr/)
-- 💼 I'm working on: [CVMIPLab, KNU](https://visual.kangwon.ac.kr)
-- 📖 I'm researching: Model Optimization (specifically focusted on [this paper](https://arxiv.org/abs/1712.05877v1))
-- 🛠️ I'm interested in: Deep Learning with SBC (such as Jetson Nano and Raspberry Pi)
-- 🚲 I'm interested in: Musics, Camera, and so on.
+- 📧 Contact: ji5489@gmail.com.
+- 🚀 Tech Blog: [라임오렌지파이와 일상](https://dailylime.kr/)
+- 💼 Laboratory: [Computer Vision & Medical Image Processing Lab., KNU](https://visual.kangwon.ac.kr)
+- 📖 Research Interests: Model Optimization (specifically focusted on [this paper](https://arxiv.org/abs/1712.05877v1))
+- 🛠️ Field Interests: Deep Learning with SBC (such as Jetson Nano and Raspberry Pi)
+- 🚲 Likes: Musics, Camera, and so on.
