@@ -17,7 +17,7 @@ Currently researching **Training detection model with TPU using PyTorch/XLA easi
   - CNN Network: Object Detector, Classifier
   - Low-Power Computer Vision: NVIDIA Jetson, Raspberry Pi
   - Model Optimization: [Quantization](https://arxiv.org/abs/1712.05877v1), Pruning
-  - CNN with Heterogeneous Processor: TPU, XLA
+  - CNN with Heterogeneous Processor: TPU, Proprietary DLA Engine
 - 💙 Further field interests
   - DevOps: K8s, K3s, Docker
   - System deployment on resource-constrained environments
