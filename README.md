@@ -1,5 +1,10 @@
 ## 안정인 (Jung-In An)
-<img src="https://user-images.githubusercontent.com/5201073/220287775-e04616dc-4cb8-4c77-8cab-58f0cc478dd9.jpg" width="360"/>
+<div align=center>
+    
+![LimeOrangePie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungin500&show_icons=true&count_private=true)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungin500&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+  
+</div>
 
 ### Deep Learning & Network/System Architecture Researcher
 
@@ -26,24 +31,28 @@ Currently researching **Training detection model with TPU using PyTorch/XLA easi
 - 📖 Domestic Conferences
   - 안정인, 김윤, [젯슨 나노를 이용한 온프레미스 주거 침입 탐지 시스템 구현](https://dailylime.kr/wp-content/uploads/2022/03/%EC%A0%AF%EC%8A%A8-%EB%82%98%EB%85%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%A3%BC%EA%B1%B0-%EC%B9%A8%EC%9E%85-%ED%83%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84.pdf), 2021년도 한국멀티미디어학회 춘계학술발표대회“, 2021년 3월
 
-### Experiences
-- 🛠️ Internships _(Name, Role, Year)_
-  - _[ZIOVISION, Co., Ltd.](https://ziovision.co.kr)_, **Deep Learning Engine Backend Development** and **Infra Operations Management Assistant**, 2019
-- 📖 Projects
-  - _Realtime Multichannel AI Safety Surveilance Service_, **GPU Hardware Decoder Module** and **Backend/Frontend** Development, 2019
-  - _LPCV 2021 Challenge_, **Model Optimization and Tuning**, 2021
-  - _Low-Powered Chipset (~5W) Model Development_, **Model Optimization and Tuning**, 2022
-- 📖 Certificates
-  - 국가자격증
-    - 정보처리기사, 한국산업인력공단, 2022
-    - 네트워크관리사 2급, 한국정보통신자격협회, 2018
-  - NVIDIA University Ambassador Instructor Certificate
-    - _Fundamentals of Deep Learning_ (딥러닝의 기초)
-    - _Fundamentals of Deep Learning for Multi-GPUs_ (멀티 GPU를 위한 딥러닝의 기초)
-- ⛺ Bootcamp
-  - _[SEOULTECH AI for Science GPU Bootcamp 2021](https://dailylime.kr/wp-content/uploads/2022/03/23.-Certificate-of-Attendance_SeoulTech_%EC%95%88%EC%A0%95%EC%9D%B8.pdf)_
+<details>
+  <summary><bold>[Show/Hide] Experiences</bold></summary>
+  
+  - 🛠️ Internships _(Name, Role, Year)_
+    - _[ZIOVISION, Co., Ltd.](https://ziovision.co.kr)_, **Deep Learning Engine Backend Development** and **Infra Operations Management Assistant**, 2019
+  - 📖 Projects
+    - _Realtime Multichannel AI Safety Surveilance Service_, **GPU Hardware Decoder Module** and **Backend/Frontend** Development, 2019
+    - _LPCV 2021 Challenge_, **Model Optimization and Tuning**, 2021
+    - _Low-Powered Chipset (~5W) Model Development_, **Model Optimization and Tuning**, 2022
+  - 📖 Certificates
+    - 국가자격증
+      - 정보처리기사, 한국산업인력공단, 2022
+      - 네트워크관리사 2급, 한국정보통신자격협회, 2018
+    - NVIDIA University Ambassador Instructor Certificate
+      - _Fundamentals of Deep Learning_ (딥러닝의 기초)
+      - _Fundamentals of Deep Learning for Multi-GPUs_ (멀티 GPU를 위한 딥러닝의 기초)
+  - ⛺ Bootcamp
+    - _[SEOULTECH AI for Science GPU Bootcamp 2021](https://dailylime.kr/wp-content/uploads/2022/03/23.-Certificate-of-Attendance_SeoulTech_%EC%95%88%EC%A0%95%EC%9D%B8.pdf)_
+</details>
 
-### Miscellaneous
+### Personal Works
 - Public Repository: [https://repo.dailylime.kr/](https://repo.dailylime.kr/)
+  > Serving broad range of my personal works! (Academic papers, Linux, WSL2, Built kernel images, OpenWRT, etc...)
   - `OpenWRT`: `~22.03.3` Custom build for [DFRobot CM4 IoT Router Board](https://wiki.dfrobot.com/Compute_Module_4_IoT_Router_Board_Mini_SKU_DFR0767)
   - `WSL2-kernel`: `5.10.74.3`, Nested Virtualization support, both for Intel and AMD 
