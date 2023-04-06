@@ -53,6 +53,6 @@ Currently researching **Training detection model with TPU using PyTorch/XLA easi
 
 ### Personal Works
 - Public Repository: [https://repo.dailylime.kr/](https://repo.dailylime.kr/)
-  > Serving broad range of my personal works! (Academic papers, Linux, WSL2, Built kernel images, OpenWRT, etc...)
+  > This repository contains a wide range of my personal work, including academic papers, WSL2 kernel images, custom-built kernel images, OpenWRT images, and more
   - `OpenWRT`: `~22.03.3` Custom build for [DFRobot CM4 IoT Router Board](https://wiki.dfrobot.com/Compute_Module_4_IoT_Router_Board_Mini_SKU_DFR0767)
   - `WSL2-kernel`: `5.10.74.3`, Nested Virtualization support, both for Intel and AMD 
