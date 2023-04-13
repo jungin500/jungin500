@@ -1,9 +1,10 @@
 ## 안정인 (Jung-In An)
 <div align=center>
     
-![LimeOrangePie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungin500&show_icons=true&count_private=true)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungin500&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  
+  [![LimeOrangePie's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue-dark&username=jungin500&show_icons=true&count_private=true)](https://github.com/jungin500)  
+  [![jungin500's gists](https://img.shields.io/badge/gist-jungin500-blue)](https://gist.github.com/jungin500) [![라임오렌지파이와 일상](https://img.shields.io/badge/blog-%EB%9D%BC%EC%9E%84%EC%98%A4%EB%A0%8C%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%99%80%20%EC%9D%BC%EC%83%81-orange)](https://dailylime.kr)  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungin500&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+    
 </div>
 
 ### Deep Learning & Network/System Architecture Researcher
