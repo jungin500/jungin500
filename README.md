@@ -1,46 +1,35 @@
-## 안정인 (Jung-In An)
-<div align=center>
-    
-  [![LimeOrangePie's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue-dark&username=jungin500&show_icons=true&count_private=true)](https://github.com/jungin500)  
-  [![jungin500's gists](https://img.shields.io/badge/gist-jungin500-blue)](https://gist.github.com/jungin500) [![라임오렌지파이와 일상](https://img.shields.io/badge/blog-%EB%9D%BC%EC%9E%84%EC%98%A4%EB%A0%8C%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%99%80%20%EC%9D%BC%EC%83%81-orange)](https://dailylime.kr) [![LimeNAS Public Repository](https://img.shields.io/badge/repo-LimeNAS%20Public%20Repo-brightgreen)](https://repo.dailylime.kr)  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungin500&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-    
-</div>
+# Jung-In An (안정인)
+[![라임오렌지파이와 일상](https://img.shields.io/badge/blog-%EB%9D%BC%EC%9E%84%EC%98%A4%EB%A0%8C%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%99%80%20%EC%9D%BC%EC%83%81-orange)](https://dailylime.kr) [![LimeNAS Public Repository](https://img.shields.io/badge/repo-LimeNAS%20Public%20Repo-brightgreen)](https://repo.dailylime.kr) [![Personal Projects](https://img.shields.io/badge/gitlab-jungin500-purple)](https://git.dailylime.dev/explore/projects) [![jungin500's gists](https://img.shields.io/badge/gist-jungin500-blue)](https://gist.github.com/jungin500)  
+Passionate about exploring the latest technology and sharing the best discoveries
 
-### Deep Learning & Network/System Architecture Researcher
+### Image Processing, CNN
+- **Object Detection**
+- **Model Optimization**
+  - Quantization, Pruning
+  - for Mobile Devices
+  - for SBCs (Jetson Nano, Raspberry Pi)  
+- Neural Architecture Search
 
-Graduate Student, CNN Network Architect  
-Currently studying on _NAS(Network Architecture Search)_ and _Model Optimization_
+### MLOps/DevOps
+- Docker, Kubernetes (K8s, Rancher K3s)
+- GitLab CI/CD, Jenkins CI
 
-- 📧 Contact me: ji5489@gmail.com.
-- 🚀 Tech blog: [라임오렌지파이와 일상](https://dailylime.kr/)
-- 🚲 Hobbies: Musics, Camera, and so on!
-
-### Research
-Currently researching **Training detection model with TPU using PyTorch/XLA easily without any quirks**! I'm also looking into [JAX](https://github.com/google/jax).
-
-- 🛠️ Research interests
-  - CNN Network: Object Detector, Classifier
-  - Low-Power Computer Vision: NVIDIA Jetson, Raspberry Pi
-  - Model Optimization: [Quantization](https://arxiv.org/abs/1712.05877v1), Pruning
-  - CNN with Heterogeneous Processor: TPU, Proprietary DLA Engine (Qualcomm, Novatek)
-- 💙 Further field interests
-  - DevOps: K8s, K3s, Docker
-  - System deployment on resource-constrained environments
-- 📖 Domestic Papers
-  - 안정인, 김윤, 최현수, [소형 스케일 객체 탐지 레이블 재할당 기법](https://dailylime.kr/wp-content/uploads/2023/01/%EC%86%8C%ED%98%95-%EC%8A%A4%EC%BC%80%EC%9D%BC-%EA%B0%9D%EC%B2%B4-%ED%83%90%EC%A7%80-%EB%A0%88%EC%9D%B4%EB%B8%94-%EC%9E%AC%ED%95%A0%EB%8B%B9-%EA%B8%B0%EB%B2%95.pdf), 한국컴퓨터정보학회논문지 제 27권 제 12호, pp. 77-84, 2022년 12월
-- 📖 Domestic Conferences
-  - 안정인, 김윤, [젯슨 나노를 이용한 온프레미스 주거 침입 탐지 시스템 구현](https://dailylime.kr/wp-content/uploads/2022/03/%EC%A0%AF%EC%8A%A8-%EB%82%98%EB%85%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%A3%BC%EA%B1%B0-%EC%B9%A8%EC%9E%85-%ED%83%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84.pdf), 2021년도 한국멀티미디어학회 춘계학술발표대회“, 2021년 3월
+### Experiences
 
 <details>
-  <summary><bold>[Show/Hide] Experiences</bold></summary>
-  
+  <summary>Work/Research Experiences</summary>
+    
   - 🛠️ Internships _(Name, Role, Year)_
     - _[ZIOVISION, Co., Ltd.](https://ziovision.co.kr)_, **Deep Learning Engine Backend Development** and **Infra Operations Management Assistant**, 2019
   - 📖 Projects
     - _Realtime Multichannel AI Safety Surveilance Service_, **GPU Hardware Decoder Module** and **Backend/Frontend** Development, 2019
     - _LPCV 2021 Challenge_, **Model Optimization and Tuning**, 2021
     - _Low-Powered Chipset (~5W) Model Development_, **Model Optimization and Tuning**, 2022
+  - 📖 Domestic Papers
+    - 안정인, 김윤, 최현수, [소형 스케일 객체 탐지 레이블 재할당 기법](https://dailylime.kr/wp-content/uploads/2023/01/%EC%86%8C%ED%98%95-%EC%8A%A4%EC%BC%80%EC%9D%BC-%EA%B0%9D%EC%B2%B4-%ED%83%90%EC%A7%80-%EB%A0%88%EC%9D%B4%EB%B8%94-%EC%9E%AC%ED%95%A0%EB%8B%B9-%EA%B8%B0%EB%B2%95.pdf), 한국컴퓨터정보학회논문지 제 27권 제 12호, pp. 77-84, 2022년 12월
+  - 📖 Domestic Conferences
+    - 안정인, 김윤, [젯슨 나노를 이용한 온프레미스 주거 침입 탐지 시스템 구현](https://dailylime.kr/wp-content/uploads/2022/03/%EC%A0%AF%EC%8A%A8-%EB%82%98%EB%85%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%A3%BC%EA%B1%B0-%EC%B9%A8%EC%9E%85-%ED%83%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84.pdf), 2021년도 한국멀티미디어학회 춘계학술발표대회“, 2021년 3월
+
   - 📖 Certificates
     - 국가자격증
       - 정보처리기사, 한국산업인력공단, 2022
@@ -52,8 +41,35 @@ Currently researching **Training detection model with TPU using PyTorch/XLA easi
     - _[SEOULTECH AI for Science GPU Bootcamp 2021](https://dailylime.kr/wp-content/uploads/2022/03/23.-Certificate-of-Attendance_SeoulTech_%EC%95%88%EC%A0%95%EC%9D%B8.pdf)_
 </details>
 
+<details>
+  <summary>Personal Experiences</summary>
+    
+  - 🛠️ Deep Learning
+    - CNN Network: Object Detector, Classifier
+    - Low-Power Computer Vision: NVIDIA Jetson, Raspberry Pi
+    - Model Optimization: [Quantization](https://arxiv.org/abs/1712.05877v1), Pruning
+    - CNN with Heterogeneous Processor: TPU, Proprietary DLA Engine (Qualcomm, Novatek)
+    
+  - 💙 DevOps/MLOps
+    - DevOps: K8s, K3s, Docker
+    - System deployment on resource-constrained environments
+</details>
+
+
+### Interests
+Currently researching **Training detection model with TPU using PyTorch/XLA easily without any quirks**! I'm also looking into [JAX](https://github.com/google/jax).
+
+
 ### Personal Works
-- Public Repository: [https://repo.dailylime.kr/](https://repo.dailylime.kr/)
+<details>
+  <summary>Public Repository: https://repo.dailylime.kr/</summary>
+    
   > This repository contains a wide range of my personal work, including academic papers, WSL2 kernel images, custom-built kernel images, OpenWRT images, and more
   - `OpenWRT`: `~22.03.3` Custom build for [DFRobot CM4 IoT Router Board](https://wiki.dfrobot.com/Compute_Module_4_IoT_Router_Board_Mini_SKU_DFR0767)
-  - `WSL2-kernel`: `5.10.74.3`, Nested Virtualization support, both for Intel and AMD 
+  - `WSL2-kernel`: `5.10.74.3`, Nested Virtualization support, both for Intel and AMD  
+</details>
+
+---
+
+- 📧 Email: ji5489@gmail.com  
+- 🚀 Tech blog: [https://dailylime.kr](https://dailylime.kr)  
